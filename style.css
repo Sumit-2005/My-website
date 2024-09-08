@@ -1,6 +1,7 @@
 * {
     padding: 0;
     margin: 0;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 a{
@@ -20,3 +21,28 @@ a{
     font-size: 18px;
 }
 
+.home-main{
+    display: flex;
+    padding-top: 75px;
+}
+
+.text{
+    padding-left: 300px;
+    padding-top: 120px;
+}
+
+#para{
+    font-size: 1.25rem;
+    padding-top: 20px;
+}
+
+#hey{
+    font-size: 3rem;
+}
+
+.me{
+    width: 450px;
+    border-radius: 1rem;
+    padding-left: 30px;
+    border-top-left-radius: 1rem;
+}
