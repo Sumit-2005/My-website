@@ -28,7 +28,7 @@ a{
 
 .text{
     padding-left: 300px;
-    padding-top: 120px;
+    padding-top: 50px;
 }
 
 #para{
@@ -44,5 +44,28 @@ a{
     width: 450px;
     border-radius: 1rem;
     padding-left: 30px;
-    border-top-left-radius: 1rem;
 }
+
+.rate {
+    width: 430px;
+    height: 30px;
+    border-radius: 5px;
+    outline: none;
+    margin-top: 20px;
+    font-size: 1.25rem;
+}
+
+.rate-btn{
+    width: 433px;
+    height: 35px;
+    border-radius: 5px;
+    background-color: #4A6FA5;
+    margin-top: 20px;
+    color: #fff;
+}
+
+.rate-btn:hover{
+    background-color: #DBE9EE;
+    color: black;
+}
+
