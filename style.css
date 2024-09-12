@@ -103,3 +103,15 @@ a:hover{
     font-size: 3rem;
     margin-bottom: 20px;
 }
+
+.int-heading{
+    font-size: 2rem;
+    padding-top: 20px;
+    margin-left: 70px
+}
+
+.line{
+    font-size: 2.5rem;
+    color: #4A6FA5;
+    margin-left: 70px 
+}
