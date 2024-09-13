@@ -80,7 +80,7 @@ a:hover{
     display: flex;
     justify-content: space-evenly;
     align-items: center;
-    padding-top: 50px;
+    /* padding-top: 20px; */
     padding-bottom: 50px;
 }
 
@@ -114,4 +114,45 @@ a:hover{
     font-size: 2.5rem;
     color: #4A6FA5;
     margin-left: 70px 
+}
+
+.int-down{
+    margin-top:120px;
+}
+
+.display-div1{
+    display: flex;
+}
+
+.display-div2{
+    display: flex;
+}
+
+.book-notes{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.book-notes-heading{
+    font-size: 2rem;
+    padding-top: 50px;
+    margin-left: 70px
+}
+
+.img{
+    width: 200px;
+    border-radius: 1rem;
+}
+
+.img img{
+    width: 200px;
+    border-radius: 0.5rem;
+}
+
+.book-name{
+    color: #3897D3;
+}
+
+.book-details{
+    font-size: 16px;
 }
