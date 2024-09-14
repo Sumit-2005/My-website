@@ -120,17 +120,16 @@ a:hover{
     margin-top:120px;
 }
 
-.display-div1{
+.display-div{
     display: flex;
-}
-
-.display-div2{
-    display: flex;
+    justify-content: space-between;
 }
 
 .book-notes{
     display: flex;
     justify-content: space-evenly;
+    margin-top: 50px;
+    margin-bottom: 50px;
 }
 
 .book-notes-heading{
@@ -147,12 +146,22 @@ a:hover{
 .img img{
     width: 200px;
     border-radius: 0.5rem;
+    box-shadow: 5px 5px 9px grey
 }
 
 .book-name{
-    color: #3897D3;
+    color: #3897d3;
+    font-weight: 600;
+}
+
+.book-name:hover{
+    color: black;
 }
 
 .book-details{
     font-size: 16px;
+    text-align: left;
+    padding-top: 10px;
+    padding-left: 30px;
+    width: 300px;
 }
