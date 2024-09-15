@@ -1,7 +1,19 @@
 * {
     padding: 0;
     margin: 0;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    /* font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; */
+}
+#bike{
+    width: 12px;
+}
+
+*{
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    font-variation-settings: 
+    "wdth" 100;
 }
 
 a{
@@ -164,4 +176,12 @@ a:hover{
     padding-top: 10px;
     padding-left: 30px;
     width: 300px;
+}
+hr{
+    padding: 3px 0px;
+    margin: 12px 0px;
+    margin-left: 70px;
+    width: 172px;
+    border-radius: 1rem;
+    background-color: #3897d3;
 }
