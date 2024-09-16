@@ -235,3 +235,15 @@ hr{
     font-weight: 650;
     font-size: 31.5px;
 }
+
+.about-para{
+    margin-top: 10px;
+    font-size: 17px;
+    width: 470px;
+    text-align: left;
+}
+
+.about-para a{
+    color: #3897d3;
+    text-decoration: underline;
+}
