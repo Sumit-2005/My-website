@@ -249,12 +249,12 @@ hr{
 }
 
 footer{
-    height: 250px;
+    height: 200px;
     background-color: black;
     display: flex;
     color: #fff;
     justify-content: space-evenly;
-    align-items: center;
+    padding-top: 50px;
 }
 
 footer a{
@@ -273,12 +273,16 @@ footer a{
     margin-bottom: 10px;
 }
 
+.foot-head3{
+    padding-top: 60px;
+}
+
 .foot-head3 i{
     margin-right: 10px;
     font-size: 1.25rem;
     margin-bottom: 10px;
 }
 
-#link, #more{
+#link, #more, #life{
     margin-top: 10px;
 }
