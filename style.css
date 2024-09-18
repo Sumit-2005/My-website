@@ -278,3 +278,7 @@ footer a{
     font-size: 1.25rem;
     margin-bottom: 10px;
 }
+
+#link, #more{
+    margin-top: 10px;
+}
