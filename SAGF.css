@@ -44,8 +44,8 @@ hr{
 }
 
 .summary{
-    width: 900px;
-    padding-left: 300px;
+    width: 800px;
+    padding-left: 250px;
 }
 
 .sum-head{
@@ -75,4 +75,34 @@ hr{
     margin-top: 20px;
     margin-left: 30px;
     font-size: 18px;
+}
+
+.impressions{
+    margin-top: 40px;
+}
+
+.sum-text3{
+    font-size: 19px;
+    margin-top: 20px;
+    margin-left: 30px;
+}
+
+.who-read{
+    margin-bottom: 40px;
+}
+
+.sum-text4{
+    font-size: 19px;
+    margin-top: 20px;
+    margin-left: 30px;
+}
+
+.sum-text5{
+    font-size: 18px;
+    margin-top: 10px;
+    margin-left: 50px;
+}
+
+.sum-text5 li{
+    margin-top: 7px;
 }
