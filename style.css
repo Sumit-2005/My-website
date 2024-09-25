@@ -262,6 +262,11 @@ footer a{
     margin-top: 10px;
 }
 
+footer a:hover{
+    text-decoration: underline;
+    color: #3897d3;
+}
+
 .foot-head{
     font-weight: 700;
     color: #fff;

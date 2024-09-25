@@ -88,7 +88,7 @@ hr{
 }
 
 .who-read{
-    margin-bottom: 40px;
+    margin-bottom: 60px;
 }
 
 .sum-text4{
@@ -105,4 +105,49 @@ hr{
 
 .sum-text5 li{
     margin-top: 7px;
+}
+
+footer{
+    height: 200px;
+    background-color: black;
+    display: flex;
+    color: #fff;
+    justify-content: space-evenly;
+    padding-top: 50px;
+}
+
+footer a{
+    color: #fff;
+    margin-top: 10px;
+    text-decoration: none;
+}
+
+footer a:hover{
+    text-decoration: underline;
+    color: #3897d3;
+}
+
+.foot-head{
+    font-weight: 700;
+    color: #fff;
+    font-size: 32px;
+    margin-bottom: 25px;
+}
+
+.foot-head1 a{
+    margin-bottom: 10px;
+}
+
+.foot-head3{
+    padding-top: 60px;
+}
+
+.foot-head3 i{
+    margin-right: 10px;
+    font-size: 1.25rem;
+    margin-bottom: 10px;
+}
+
+#link, #more, #life{
+    margin-top: 10px;
 }
