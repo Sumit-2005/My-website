@@ -22,7 +22,7 @@ a{
 
 a:hover{
     color: #4A6FA5;
-    text-decoration: underline;
+    text-decoration: none;
 }
 
 #logo{
