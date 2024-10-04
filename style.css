@@ -108,7 +108,7 @@ a:hover{
     border-radius: 1rem;
     box-shadow: 5px 5px 9px grey;
     padding: 30px;
-    transition: 0.1s;
+    transition: 0.5s;
 }
 
 .ints:hover{
